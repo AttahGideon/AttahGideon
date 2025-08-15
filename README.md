@@ -1,8 +1,7 @@
 Hi there, I'm Elisha! 👋🚀
-I'm a Data Science and Analytics student at the American University of Nigeria 🇳🇬, passionate about AI/ML 🤖, Deep Learning 🧠, data science 📊,and Computer Vision 👁️‍🗨️. I love building predictive models 📈✨ and exploring AI/ML, Deep Learning, and Computer Vision. 🌟
-Currently studying Data Science and Analytics, I'm taking my learning step by step. 🎓💡
-Fascinated by transformers and LLMs 🏗️, I hope to build my own soon! 🛠️🎯
-Watching complex AI/ML systems come to life inspires me. 💻🌐
+I'm a Data Science and Analytics student at the American University of Nigeria 🇳🇬, passionate about AI/ML 🤖, Deep Learning 🧠, and Reinforcement learning research.
+Currently studying Data Science and Analytics, I'm taking my learning step by step, from Math to code. 🎓💡
+Watching complex AI/ML systems come to life excites me and finding out how it works gives me inspiration. 💻🌐
 
 Connect With Me
 Feel free to explore my repositories or reach out for collaborations! 🤝💬
