@@ -1,6 +1,6 @@
 # Hi, I'm Attah
 
-AI/ML engineering student building intelligent systems with a focus on:
+Final year Data Science & Analytics student most interested in AI/ML engineering building intelligent systems with a focus on:
 
 - Multi-agent architectures
 - RAG-based systems
